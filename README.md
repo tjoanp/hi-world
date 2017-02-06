@@ -1,2 +1,2 @@
 # hi-world
-1st test project
+some other text
